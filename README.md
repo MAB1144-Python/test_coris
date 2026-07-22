@@ -5,8 +5,7 @@ Categoriza automáticamente, registra casos nuevos y genera respuestas personali
 
 **Autor:** Msg. Brayan Andru Montenegro Embus  
 **Repositorio:** https://github.com/MAB1144-Python/test_coris  
-**Redes:** [GitHub](https://github.com/MAB1144-Python) · 
-[LinkedIn](hhttps://www.linkedin.com/in/brayanandrumontenegroembus/)
+**Redes:** [GitHub](https://github.com/MAB1144-Python) · [LinkedIn](https://www.linkedin.com/in/brayanandrumontenegroembus)
 
 ---
 
