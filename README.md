@@ -31,11 +31,13 @@ pip install -r requirements.txt
 
 ## API Key
 
-Define la variables de entorno antes de ejecutar y guárdalas en el archivo .env en la misma carpeta del proyecto, debe contener:
+Define la variables de entorno antes de ejecutar y guárdalas en el archivo `.env` en la misma carpeta del proyecto, debe contener:
 
+```
 ANTHROPIC_API_KEY=sk-ant-...
 CLAUDE_MODEL=claude-opus-4-8
 CASOS_FILE=casos.json
+```
 
 ## Ejecución
 
